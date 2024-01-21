@@ -1,16 +1,67 @@
-### Hi there 👋
+# 성공한 개발자가 될 거야 👨‍💻
+배움과 경험을 중요하게 생각하는 소프트웨어학과 학부생 입니다!
 
-<!--
-**OppSpark/OppSpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 나는 누구?
+▶ 백엔드 개발자가 되기 위해 노력하는 사람 <br>
+▶ 로직 구현을 중요하게 생각하는 사람 <br>
+▶ 개발자 월급 보다 배움을 우선시 하는 사람 <br>
+▶ 일단 해보고 생각하는 사람 <br>
 
-Here are some ideas to get you started:
+## MY TECH STACK  💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center><h1> FRONT-END </h1></div>
+
+  <div align=center> 
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  </div>
+
+
+<div align=center><h1> BACK-END </h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black"> 
+</div>
+
+
+<div align=center><h1> DBMS </h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"> 
+  
+</div>
+
+
+<div align=center><h1> LANGUAGE </h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-3376AB?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> 
+</div>
+
+
+<div align=center><h1> ETC </h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white"> 
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <br>
+  <img src="https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=VIM&logoColor=white">
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <br>
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-000000.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+  <br>
+      <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/OracleCloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white">
+  
+</div>
+
