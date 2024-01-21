@@ -1,18 +1,22 @@
 # 성공한 개발자가 될 거야 👨‍💻
 배움과 경험을 중요하게 생각하는 소프트웨어학과 학부생 입니다!
 
-### 나는 누구 🧐
+
+## 나는 누구 🧐
 ▶ 백엔드 개발자가 되기 위해 노력하는 사람 <br>
 ▶ 로직 구현을 중요하게 생각하는 사람 <br>
 ▶ 개발자 월급 보다 배움을 우선시 하는 사람 <br>
 ▶ 일단 해보고 생각하는 사람 <br>
 
-### 나에게 연락을 줘 📱
-Email : picks5@naver.com <br>
-Phone : ??? <br>
-Instagram : 0ppspark <br>
 
-### 무엇을 할 수 있지? 💻
+## 나에게 연락을 줘 📱
+▶ Email : picks5@naver.com <br>
+▶ Phone : ??? <br>
+▶ Instagram : 0ppspark <br>
+
+
+
+## 무엇을 할 수 있지? 💻
 
 <div align=center><h3> FRONT-END </h3></div>
 
