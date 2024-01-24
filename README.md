@@ -31,9 +31,10 @@
 <div align=center><h3> BACK-END </h3></div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"> 
+  
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black"> 
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"> 
 </div>
 
 
@@ -58,13 +59,14 @@
 <div align=center><h3> ETC </h3></div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white"> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white"> 
   <br>
+  <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=VIM&logoColor=white">
   <img src="https://img.shields.io/badge/VSCODE-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  
   <br>
     <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Jenkins-000000.svg?style=for-the-badge&logo=jenkins&logoColor=white">
