@@ -15,6 +15,11 @@
 ▶ Instagram : 0ppspark <br>
 
 
+## 자랑하고 싶은 것
+https://github.com/OppSpark/2024_Coin_project
+
+https://github.com/OppSpark/Spring_study
+
 
 ## 무엇을 할 수 있지? 💻
 
@@ -38,21 +43,20 @@
 </div>
 
 
+<div align=center><h3> ETC LANGUAGE </h3></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-3376AB?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> 
+</div>
+
+
 <div align=center><h3> DBMS </h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"> 
   
-</div>
-
-
-<div align=center><h3> LANGUAGE </h3></div>
-
-<div align=center> 
-  <img src="https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Python-3376AB?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"> 
 </div>
 
 
