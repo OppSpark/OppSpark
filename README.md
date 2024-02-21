@@ -16,6 +16,9 @@
 
 
 ## 자랑하고 싶은 것
+▶ 경성대학교 강의실 현황 시스템 <br>
+https://github.com/OppSpark/ks_Monitor
+
 ▶ 2024년 코인라이프 프로젝트 <br>
 https://github.com/OppSpark/2024_Coin_project <br>
 ▶ 스프링부트 스터디 <br>
