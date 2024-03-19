@@ -57,6 +57,7 @@
 
 <div align=center> 
   <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white">
   
 </div>
 
