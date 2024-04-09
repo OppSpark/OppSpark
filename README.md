@@ -15,6 +15,9 @@
 
 
 ## 자랑하고 싶은 것 📝
+▶ 간단한 쇼핑몰 만들기  <br>
+▶ https://github.com/OppSpark/Shop_Project <br>
+<br>
 ▶ 경성대학교 강의실 현황 시스템 <br>
 ▶ https://github.com/OppSpark/ks_Monitor <br>
 <br>
@@ -50,7 +53,6 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <br>
-
 </div>
 
 <div align=center><h3> DBMS </h3></div>
@@ -58,23 +60,27 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql&logoColor=white"> 
   <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white">
-  
+  <br>
 </div>
 
 
-<div align=center><h3> ETC </h3></div>
-
+<div align=center><h3> Tools </h3></div>
 <div align=center> 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white"> 
-  <br>
   <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/vim-019733.svg?style=for-the-badge&logo=VIM&logoColor=white">
   <img src="https://img.shields.io/badge/VSCODE-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  
+<br>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-000000.svg?style=for-the-badge&logo=jenkins&logoColor=white">
   <br>
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Jenkins-000000.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+</div>
+
+
+
+
+<div align=center><h3>ETC </h3></div>
+<div align=center> 
+   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/OracleCloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white">
