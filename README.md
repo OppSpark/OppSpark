@@ -14,7 +14,7 @@
 ▶ Instagram : 0ppspark <br>
 
 ## 전공 수업 저장소
-▶ 강의 필기 내용
+▶ 강의 필기 내용 <br>
 ▶ https://github.com/OppSpark/major_class <br>
 
 
