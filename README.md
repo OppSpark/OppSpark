@@ -13,6 +13,11 @@
 ▶ Phone : ??? <br>
 ▶ Instagram : 0ppspark <br>
 
+## 전공 수업 저장소
+▶ 강의 필기 내용
+▶ https://github.com/OppSpark/major_class <br>
+
+
 
 ## 자랑하고 싶은 것 📝
 ▶ 간단한 쇼핑몰 만들기  <br>
