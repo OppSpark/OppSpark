@@ -22,9 +22,15 @@
 ## 자랑하고 싶은 것 📝
 
 ▶ 진행중인 프로젝트  <br>
-https://github.com/OppSpark/CatWashHub <br>
+▶https://github.com/OppSpark/CatWashHub <br>
 <br><br><br>
 
+▶ 완성된 프로젝트
+▶ 코인라이프 프로젝트 <br>
+▶ https://github.com/OppSpark/coin_Life <br>
+
+
+<br><br><br>
 
 ▶ 간단한 쇼핑몰 만들기  <br>
 ▶ https://github.com/OppSpark/Shop_Project <br>
@@ -32,8 +38,7 @@ https://github.com/OppSpark/CatWashHub <br>
 ▶ 경성대학교 강의실 현황 시스템 <br>
 ▶ https://github.com/OppSpark/ks_Monitor <br>
 <br>
-▶ 코인라이프 프로젝트 <br>
-▶ https://github.com/OppSpark/coin_Life <br>
+
 
 ## 무엇을 할 수 있지? 💻
 
