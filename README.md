@@ -35,7 +35,7 @@
 
 ▶ 2024 네트워크 스터디 <br>
 ▶ 넌 블러킹 비동기 통신을 이용한 채팅 서버 만들기 <br>
-▶ [https://github.com/OppSpark/gameLucy](https://github.com/OppSpark/2024_WebFluxChatServer)
+▶ https://github.com/OppSpark/2024_WebFluxChatServer
 <br>
 
 ▶ 2023 겨울 게임 프로젝트 <br>
@@ -49,10 +49,10 @@
 ▶ https://github.com/OppSpark/ks_Monitor <br>
 
 ▶ 연구실 인원을 대상으로 진행한 Git Study <br>
-▶ [https://github.com/OppSpark/ks_Monitor](https://github.com/OppSpark/Git_study) <br>
+▶ https://github.com/OppSpark/Git_study <br>
 
 ▶ 알고리즘 스터디<br>
-▶ [https://github.com/OppSpark/ks_Monitor](https://github.com/OppSpark/algoS) <br>
+▶ https://github.com/OppSpark/algoS <br>
 
 ▶ 2023 풀스텍 스터디 <br>
 ▶ https://github.com/OppSpark/2023_fullstack <br>
