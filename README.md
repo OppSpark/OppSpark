@@ -18,27 +18,45 @@
 ▶ https://github.com/OppSpark/major_class <br>
 
 
-
 ## 자랑하고 싶은 것 📝
 
 ▶ 진행중인 프로젝트  <br>
-▶https://github.com/OppSpark/CatWashHub <br>
-<br><br><br>
+▶ https://github.com/OppSpark/CatWashHub <br>
+<br>
 
 ▶ 완성된 프로젝트
 ▶ 코인라이프 프로젝트 <br>
 ▶ https://github.com/OppSpark/coin_Life <br>
 
+<br>
+<br>
 
-<br><br><br>
+### 휴지통 
+
+▶ 2024 네트워크 스터디 <br>
+▶ 넌 블러킹 비동기 통신을 이용한 채팅 서버 만들기 <br>
+▶ [https://github.com/OppSpark/gameLucy](https://github.com/OppSpark/2024_WebFluxChatServer)
+<br>
+
+▶ 2023 겨울 게임 프로젝트 <br>
+▶ https://github.com/OppSpark/gameLucy
+<br>
 
 ▶ 간단한 쇼핑몰 만들기  <br>
 ▶ https://github.com/OppSpark/Shop_Project <br>
-<br>
+
 ▶ 경성대학교 강의실 현황 시스템 <br>
 ▶ https://github.com/OppSpark/ks_Monitor <br>
-<br>
 
+▶ 연구실 인원을 대상으로 진행한 Git Study <br>
+▶ [https://github.com/OppSpark/ks_Monitor](https://github.com/OppSpark/Git_study) <br>
+
+▶ 알고리즘 스터디<br>
+▶ [https://github.com/OppSpark/ks_Monitor](https://github.com/OppSpark/algoS) <br>
+
+▶ 2023 풀스텍 스터디 <br>
+▶ https://github.com/OppSpark/2023_fullstack <br>
+<br>
 
 ## 무엇을 할 수 있지? 💻
 
