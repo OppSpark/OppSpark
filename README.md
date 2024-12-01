@@ -24,9 +24,9 @@
 ▶ https://github.com/OppSpark/CatWashHub <br>
 <br>
 
-▶ 완성된 프로젝트
+▶ 완성된 프로젝트<br>
 ▶ 코인라이프 프로젝트 <br>
-▶ https://github.com/OppSpark/coin_Life <br>
+▶ http://coin.oppspark.net <br>
 
 <br>
 <br>
@@ -39,8 +39,7 @@
 <br>
 
 ▶ 2023 겨울 게임 프로젝트 <br>
-▶ https://github.com/OppSpark/gameLucy
-<br>
+▶ https://github.com/OppSpark/gameLucy <br>
 
 ▶ 간단한 쇼핑몰 만들기  <br>
 ▶ https://github.com/OppSpark/Shop_Project <br>
