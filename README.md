@@ -10,15 +10,10 @@
 ▶ Phone : ??? <br>
 ▶ Instagram : 0ppspark <br>
 
-## 전공 수업 저장소
-▶ 강의 필기 내용 <br>
-▶ https://github.com/OppSpark/major_class <br>
-
-
 ## 자랑하고 싶은 것 📝
 
 ### 약코치 <br>
-▶ httpㄴ://yacccoach.oppspark.net <br>
+▶ https://yacccoach.oppspark.net <br>
 ### 코인라이프 프로젝트 <br>
 ▶ http://coin.oppspark.net <br>
 
