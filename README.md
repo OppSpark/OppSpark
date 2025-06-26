@@ -17,13 +17,11 @@
 
 ## 자랑하고 싶은 것 📝
 
-▶ 진행중인 프로젝트  <br>
-▶ https://github.com/OppSpark/CatWashHub <br>
-<br>
-
-▶ 완성된 프로젝트<br>
-▶ 코인라이프 프로젝트 <br>
+### 약코치 <br>
+▶ httpㄴ://yacccoach.oppspark.net <br>
+### 코인라이프 프로젝트 <br>
 ▶ http://coin.oppspark.net <br>
+
 
 <br>
 <br>
